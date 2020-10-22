@@ -1,13 +1,13 @@
-## Tmux Exit
+# Tmux Exit
 
-- TODO: Add introduction and screenshot
+Add a shortcut key to close all saved vim editors in tmux.
 
 ## Usage
 
 ### Key Bindings
 
 - prefix + Q
-  - Close and save all vim windows in each tmux session's panes and windows
+  - Close and save all vim windows in current tmux session panes and windows
 
 - TODO: Add information on configuring key binding
 
